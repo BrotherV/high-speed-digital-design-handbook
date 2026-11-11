@@ -6,7 +6,7 @@
 **Edition:** First Edition (2026)  
 **Format:** PDF · 336 pages
 
-[**Read or download the handbook (PDF)**](./High-Speed-Digital-Design.pdf)
+[**Read or download the handbook (PDF)**](./High-Speed-Digital-Design 2.pdf)
 
 ## About the book
 
