@@ -4,7 +4,7 @@
 
 **Author:** Mohsen Hatami  
 **Edition:** First Edition (2026)  
-**Format:** PDF · 550 pages
+**Format:** PDF · 554 pages
 
 [**Read or download the handbook (PDF)**](./High-Speed-Digital-Design.pdf)
 
